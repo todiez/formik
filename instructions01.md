@@ -16,7 +16,7 @@ Your form should include the following:
 
 - An Email field
 - A Password field
-- A Submit Button1
+- A Submit Button
 
 Your form should implement the following input validation rules:
 
